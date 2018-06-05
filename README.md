@@ -17,9 +17,9 @@ RedSwitch
 Procedimientos:
 
 Se conecto el redswich y led  al protoboard con sus respectivos cables de salida al arduino,  la puerta es simulada por el imán y el RedSwitch por el limite de la puerta, al abrir la puerta el led enciende, simulando la alarma que avisa que la puerta se ha abierto.
-Mientras la puerta esta cerrada entra en modo sleep para ahorrar energía.
+Mientras la puerta esta cerrada entra en modo LowPower para ahorrar energía.
 
 
 Conclusión:
 
-Tener el modo sleep es importante para ahorrar el consumo de energía, espor eso que en casos como el pryecto anterior se debe poner en práctica.
+Tener el modo lowpower es importante para ahorrar el consumo de energía, espor eso que en casos como el proyecto anterior se debe poner en práctica.
